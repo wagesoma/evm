@@ -1,5 +1,5 @@
 {
-  "name": "evm",
+  "name": "evmhuma",
   "description": "evm evm evm tea project ",
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.2",
@@ -492,11 +492,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wagesoma/evm.git"
+    "url": "git+https://github.com/wagesoma/evm.git"
   },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wagesoma/evm/issues"
   },
-  "homepage": "https://github.com/wagesoma/evm#readme"
+  "homepage": "https://github.com/wagesoma/evm#readme",
+  "version": "1.0.0",
+  "author": ""
 }
